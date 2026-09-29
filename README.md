@@ -1,2 +1,2 @@
 # Simple quiz game
-A beginner-friendly Python expense tracker for recording, organizing, and reviewing personal expenses.
+A Python quiz game that asks multiple-choice questions, tracks answers, and calculates the final score.
